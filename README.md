@@ -1,4 +1,4 @@
-# Kubiva — The Financial Super App
+# Kubiva: The Financial Super App
 
 > Connect capital to opportunity. Kubiva gives startups, businesses and individuals fast, data-driven access to financing, and gives investors a way to fund them with on-chain, DeFi-style lending pools.
 
@@ -28,7 +28,7 @@ Early-stage founders and small businesses are often rejected by traditional lend
 
 ### Startup journey highlights
 
-- **Risk scoring.** The backend produces a 0–100 risk score and category (Very Low → Critical), with the strengths and risk factors behind it.
+- **Risk scoring.** The backend produces a 0 to 100 risk score and category (Very Low to Critical), with the strengths and risk factors behind it.
 - **Debt capacity.** It estimates annual revenue, operating profit, DSCR, a safe borrowing limit and the maximum affordable monthly EMI.
 - **Industry benchmarks.** Revenue, burn rate and gross margin are compared against industry peers.
 - **Tailored products.** It recommends Fixed EMI loans, **Revenue-Based Financing** (pay a % of revenue, no fixed EMI), Seasonal Flex EMI and more, priced by risk.
